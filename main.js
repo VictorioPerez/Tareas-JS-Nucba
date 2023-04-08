@@ -109,3 +109,4 @@ const multiplicacion = (numero,arregloMult) =>{
 multiplicacion(5,arreglo10);
 
 
+/* Victorio perez */
